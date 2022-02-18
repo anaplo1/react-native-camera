@@ -1,4 +1,4 @@
-
+# 1 Коммит ветка1
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
